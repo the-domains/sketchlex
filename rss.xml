@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SketchLex]]></title>
+        <description><![CDATA[SketchLex]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 06:54:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Le droit de la propriété littéraire et artistique (PLA) en un clin d'œil]]></title>
+            <description><![CDATA[<article><h1>Le droit de la propriété littéraire et artistique (PLA) en un clin d'œil</h1><p>Lexifiche a adopté une approche innovante de la fiche de droit : à la fin de chaque fiche, l'information importante est visualisée et résumée sous forme d'une mind map. Avec la permission de Lexifiche et de manière exclusive pour vous, je reproduis ci-dessous un extrait de la fiche relative à la Propriété Littéraire et Artistique.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cbc277d8ffd6eec6df51600800d23f78/croprotate.png?cropheight=350&cropwidth=721&degrees=0&input=http%3A%2F%2Fsketchlex.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fapercu73735.png&x=18&y=0"></article>]]></description>
+            <link>http://sketchlex.com/04/07/2016/aide-memoires/le-droit-de-la-propriete-litteraire-et-artistique-pla-en-un-clin-doeil/</link>
+            <guid isPermaLink="false">b4a4e81a-a5ff-4ad9-9cf9-9ecf87e8e0ae</guid>
+            <pubDate>Wed, 06 Jul 2016 06:54:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
