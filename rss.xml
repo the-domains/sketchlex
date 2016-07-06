@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SketchLex]]></title>
         <description><![CDATA[SketchLex]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sketchlex/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 06:54:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 06:55:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sketchlex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Infographie : Entrée en vigueur d'une loi]]></title>
+            <description><![CDATA[<article><h1>Infographie : Entrée en vigueur d'une loi</h1><p>Quand est-ce qu'une loi entre en vigueur ? La réponse en une image. Pour entrer en vigueur, une loi doit être préalablement publiée au Journal Officiel de la République Française (JOFR), mais à quelle date peut-elle entrer en vigueur ?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0442811e3b82a15ea1bec198fecdc9cc/croprotate.png?cropheight=396&cropwidth=781&degrees=0&input=http%3A%2F%2Fsketchlex.com%2Fwp-content%2Fuploads%2F2015%2F10%2Finfographie_juridique_entree_vigueur_loi_sketchlex_miroslav_kurdov_twitter.png&x=10&y=0"></article>]]></description>
+            <link>http://sketchlex.com/12/10/2015/infographies/infographie-entree-en-vigueur-loi/</link>
+            <guid isPermaLink="false">428a4ffd-67bf-44cd-9d20-d5e6664d252a</guid>
+            <pubDate>Wed, 06 Jul 2016 06:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Le droit de la propriété littéraire et artistique (PLA) en un clin d'œil]]></title>
             <description><![CDATA[<article><h1>Le droit de la propriété littéraire et artistique (PLA) en un clin d'œil</h1><p>Lexifiche a adopté une approche innovante de la fiche de droit : à la fin de chaque fiche, l'information importante est visualisée et résumée sous forme d'une mind map. Avec la permission de Lexifiche et de manière exclusive pour vous, je reproduis ci-dessous un extrait de la fiche relative à la Propriété Littéraire et Artistique.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/cbc277d8ffd6eec6df51600800d23f78/croprotate.png?cropheight=350&cropwidth=721&degrees=0&input=http%3A%2F%2Fsketchlex.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fapercu73735.png&x=18&y=0"></article>]]></description>
