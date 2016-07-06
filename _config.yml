@@ -1,0 +1,14 @@
+layout_spectrum: 0.9667280798312277
+typography_spectrum: 0.028751706006005406
+color:
+  brandStrength: 0.5844517399091274
+  lightness: 0.49966483493335545
+  saturation: 0.10823521087877452
+  rhythmicContrast: 0.5350265342276543
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: SketchLex
